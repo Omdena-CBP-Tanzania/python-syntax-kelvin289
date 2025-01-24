@@ -1,5 +1,5 @@
 import pytest
-from assignment_2 import *
+from assignment import *
 
 def test_format_string():
     assert format_string("John", 25) == "My name is John and I am 25 years old"
